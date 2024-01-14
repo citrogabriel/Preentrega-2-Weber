@@ -1,0 +1,84 @@
+/*fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&family=Roboto+Slab&display=swap');
+
+body {
+    background-color: beige;
+    font-family: 'Oswald', sans-serif;
+} 
+.navbar-container {
+    background-color: bisque;
+    font-size: 25px;  
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: space-between;
+     
+}
+h1 {
+    font-size: 40px;
+}
+
+.list-item {
+    list-style: none;
+    position: relative;
+}
+
+.list-item a {
+    font-size: 20px;
+    color:red;
+    text-decoration-line: none;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    
+}
+
+h1 {
+    font-size: 35px;
+    color: red;
+}
+
+p {
+    font-size: 30px;
+    color: black;
+    font-weight: 500;
+    text-align: justify;
+}   
+footer {
+    background-color: bisque;
+    font-size: 25px; 
+    
+    
+}
+main {
+    padding-bottom: 200px;
+}
+footer h2 {
+    text-align: center;
+}
+
+footer a img {
+width: 50px;
+height: 50px;
+}
+
+.logo-final {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 300px;
+}
+.image-main {
+    padding-left: 150px;
+}
