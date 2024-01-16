@@ -82,3 +82,19 @@ height: 50px;
 .image-main {
     padding-left: 150px;
 }
+
+@media  (max-width: 450px) {
+    .main-container p  {
+        font-size: 12px;
+}
+   .main-container img {
+        width: 125px;
+        height: 125px;
+}
+    .nosotros p {
+        font-size: 12px;
+    }
+    .servicios p {
+        font-size: 12px;
+    }
+}
