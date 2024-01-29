@@ -27,6 +27,11 @@ h1 {
     font-size: $font-h1;
     color: $color-h1;
 }
+.nosotros p {
+    display: flex;
+    text-align: center;
+    
+}
 .list-item {
     list-style: none;
     position: relative;

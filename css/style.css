@@ -18,6 +18,11 @@ h1 {
   color: red;
 }
 
+.nosotros p {
+  display: flex;
+  text-align: center;
+}
+
 .list-item {
   list-style: none;
   position: relative;
